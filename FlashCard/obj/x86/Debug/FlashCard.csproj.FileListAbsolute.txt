@@ -1,0 +1,18 @@
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\bin\Debug\FlashCard.exe
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\bin\Debug\FlashCard.pdb
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\FlashCard.Form1.resources
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\FlashCard.Properties.Resources.resources
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\FlashCard.exe
+C:\Users\Dylan\Documents\My Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\FlashCard.pdb
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\FlashCard.exe
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\FlashCard.pdb
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\bin\Debug\FlashCard.exe
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\bin\Debug\FlashCard.pdb
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\FlashCard.Form1.resources
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\FlashCard.Properties.Resources.resources
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Dropbox\Dropbox\Programming\FlashCard\FlashCard\obj\x86\Debug\GenerateResource.write.1.tlog
